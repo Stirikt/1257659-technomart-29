@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Константин Касаткин](https://up.htmlacademy.ru/htmlcss/29/user/1257659).
-* Наставник: `[Андрей Грачев] (https://htmlacademy.ru/profile/id252055)`.
+* Наставник: `[Андрей Грачев](https://htmlacademy.ru/profile/id252055)`.
 
 ---
 
